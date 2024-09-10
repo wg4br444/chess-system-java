@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8412033-5e99-4c88-99af-f6d2a45c9719" name="Changes" comment="teste2">
+    <list default="true" id="c8412033-5e99-4c88-99af-f6d2a45c9719" name="Changes" comment="teste 3">
+      <change afterPath="$PROJECT_DIR$/src/boardgame/Position.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
     </list>
@@ -58,7 +59,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2lq59N3bKkzwJunoroSnqmI5M0J" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -96,11 +99,20 @@
       <option name="project" value="LOCAL" />
       <updated>1725895259282</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="teste 3">
+      <option name="closed" value="true" />
+      <created>1725895899157</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725895899157</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="teste2" />
-    <option name="LAST_COMMIT_MESSAGE" value="teste2" />
+    <MESSAGE value="teste 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste 3" />
   </component>
 </project>
