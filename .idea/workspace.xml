@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8412033-5e99-4c88-99af-f6d2a45c9719" name="Changes" comment="teste 3">
+    <list default="true" id="c8412033-5e99-4c88-99af-f6d2a45c9719" name="Changes" comment="Moving pieces">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chess-system/application/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chess-system/application/Program.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/chess-system/application/UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chess-system/application/UI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chess-system/chess/ChessMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chess-system/chess/ChessMatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chess-system/boardgame/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chess-system/boardgame/Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chess-system/chess/ChessException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chess-system/chess/ChessException.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boardgame/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardgame/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,12 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725895899157</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Moving pieces">
+      <option name="closed" value="true" />
+      <created>1726497091436</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726497091436</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="teste2" />
     <MESSAGE value="teste 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="teste 3" />
+    <MESSAGE value="Moving pieces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moving pieces" />
   </component>
 </project>
