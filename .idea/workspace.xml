@@ -4,14 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8412033-5e99-4c88-99af-f6d2a45c9719" name="Changes" comment="Moving pieces">
+    <list default="true" id="c8412033-5e99-4c88-99af-f6d2a45c9719" name="Changes" comment="Possible moves of a piece">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_09_2024_12_26_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_09_2024_12_26__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chess-system/application/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chess-system/application/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chess-system/application/UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chess-system/application/UI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chess-system/boardgame/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chess-system/boardgame/Board.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chess-system/chess/ChessException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chess-system/chess/ChessException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boardgame/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardgame/Piece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessPiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessPiece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/pieces/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/pieces/King.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/pieces/Rook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/pieces/Rook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,13 +123,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726497091436</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Handling exceptions and clearing screen">
+      <option name="closed" value="true" />
+      <created>1726498048355</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726498048355</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="teste2" />
     <MESSAGE value="teste 3" />
     <MESSAGE value="Moving pieces" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moving pieces" />
+    <MESSAGE value="Handling exceptions and clearing screen" />
+    <MESSAGE value="Possible moves of a piece" />
+    <option name="LAST_COMMIT_MESSAGE" value="Possible moves of a piece" />
   </component>
 </project>
